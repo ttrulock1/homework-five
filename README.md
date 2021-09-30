@@ -5,7 +5,7 @@ The current day is displayed at the top. Timeblocks are presented in the correct
 
 Application deploys correctly, loads with no errors, submitted to github correctly. Github repo contains the code.
 
-Application user experience is intiutive and easy to navigate, as well as clean and polished. Furthermore, it is identical to the mock-up functuality and nearly identical in terms of look.
+Application user experience is intiutive and easy to navigate, as well as clean and polished. Furthermore, it is identical to the mock-up's functuality and nearly identical in terms of look.
 
 Repository has a unique name, follows best practices for file structure and name conventions. Repository contains mutitple commit messages and this updated readme file.
 
